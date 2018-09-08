@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/bread/chatserver/ChatSocketManager.java=UTF-8
+encoding//src/bread/client/ClientManager.java=UTF-8
+encoding//src/bread/client/ClientSocketManager.java=UTF-8
+encoding//src/bread/db/DBConnection.java=UTF-8
+encoding//src/bread/db/DBManager.java=UTF-8
+encoding//src/bread/main/ClientMain.java=UTF-8
+encoding//src/bread/main/ServerMain.java=UTF-8
+encoding//src/bread/menuserver/ServerManager.java=UTF-8
+encoding//src/bread/ui/Register.java=UTF-8
+encoding//src/bread/ui/UI.java=UTF-8
+encoding//src/bread/ui/finalUI.java=UTF-8
+encoding//src/bread/ui/login.java=UTF-8
+encoding//src/bread/vo/Menu.java=UTF-8
+encoding//src/bread/vo/SaleMenu.java=UTF-8
+encoding//src/bread/vo/User.java=UTF-8
+encoding/<project>=UTF-8
