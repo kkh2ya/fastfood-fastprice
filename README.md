@@ -1,3 +1,3 @@
-# Languages/components : Java, javascript, JSP(HTML/Java), servlet
-# Database : Oracle
-# tool : Eclipse
+Languages/components : java, javascript, JSP(HTML/Java), servlet  
+Database : Oracle  
+tool : Eclipse  
