@@ -1,3 +1,3 @@
-# fastfood-fastprice
-# Language : Java, javascript, JSP(HTML/Java)
+# Languages/components : Java, javascript, JSP(HTML/Java), servlet
+# Database : Oracle
 # tool : Eclipse
