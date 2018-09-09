@@ -1,4 +1,4 @@
 Language/Component : Java, Javascript, JSP(HTML/Java), Java Servlet  
-Server : Apache Tomcat in Windows  
 Database : Oracle  
+Server : Apache Tomcat in Windows    
 Tool : Eclipse  
