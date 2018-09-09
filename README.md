@@ -1,3 +1,3 @@
 # fastfood-fastprice
-Language : Java, javascript, JSP(HTML/Java)
-tool : Eclipse
+# Language : Java, javascript, JSP(HTML/Java)
+# tool : Eclipse
